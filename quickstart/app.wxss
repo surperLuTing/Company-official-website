@@ -1,0 +1,39 @@
+/**app.wxss**/
+.container {
+  height: 100%;
+  width:100%;
+  box-sizing: border-box;
+  font-family: '微软雅黑';
+  padding-bottom:60rpx;
+} 
+image{
+  display: block;
+}
+.content{
+  width:100%;
+  padding:20rpx 30rpx;
+  box-sizing: border-box;
+  font-family: '微软雅黑';
+  font-size: 14px;
+  line-height: 24px;
+}
+.banners{
+  width:100%;
+  margin-bottom:30rpx;
+}
+.img-box{
+  display: flex;
+  justify-content:space-between;
+  margin-bottom:20rpx;
+  padding:0 20rpx;
+}
+.img-box image{
+  width:48%;
+}
+.img-boxs{
+  display: flex;
+  padding:0 20rpx;
+}
+.img-boxs image{
+  width:48%;
+}

@@ -1,0 +1,60 @@
+{
+  "pages":[
+    
+    "pages/index/index",
+    "pages/index2/index2",
+    "pages/index3/index3",
+    "pages/index3s/index3s",
+    "pages/index4/index4",
+    "pages/index5/index5",
+    "pages/index5s/index5s",
+    "pages/index6/index6",
+    "pages/show1/show1",
+    "pages/show2/show2",
+    "pages/show3/show3",
+    "pages/show4/show4",
+    "pages/show5/show5",
+    "pages/show6/show6",
+    "pages/show7/show7",
+    "pages/show8/show8",
+    "pages/show9/show9",
+    "pages/show10/show10"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "杭州上行科技有限公司",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "color": "#333",
+    "selectedColor": "#00A0C1",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/Icon_Home_normal.png",
+        "selectedIconPath": "images/Icon_Home_selected.png"
+      },
+      {
+        "pagePath": "pages/index2/index2",
+        "text": "案例",
+        "iconPath": "images/Icon_case_normal.png",
+        "selectedIconPath": "images/Icon_case_selected.png"
+      },
+      {
+        "pagePath": "pages/index3/index3",
+        "text": "能力",
+        "iconPath": "images/Icon_ability_normal.png",
+        "selectedIconPath": "images/Icon_ability_selected.png"
+      },
+      {
+        "pagePath": "pages/index5/index5",
+        "text": "关于",
+        "iconPath": "images/Icon_about_normal.png",
+        "selectedIconPath": "images/Icon_about_selected.png"
+      }
+    ]
+  }
+}

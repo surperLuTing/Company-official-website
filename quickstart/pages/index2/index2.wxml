@@ -1,0 +1,53 @@
+<!--pages/index2/index2.wxml-->
+<view class="content">
+  <view class="show-box">
+      <navigator url="../show1/show1">
+       <image src="../../images/1.png" mode='widthFix'></image>
+     </navigator>
+  </view>
+  <view class="show-box">
+     <navigator url="../show2/show2">
+        <image src="../../images/2.png" mode='widthFix'></image>
+     </navigator>
+  </view>
+  <view class="show-box">
+      <navigator url="../show3/show3">
+       <image src="../../images/3.png" mode='widthFix'></image>
+     </navigator>
+  </view>
+  <view class="show-box">
+     <navigator url="../show5/show5">
+        <image src="../../images/4.png" mode='widthFix'></image>
+     </navigator>
+  </view>
+  <view class="show-box">
+      <navigator url="../show4/show4">
+       <image src="../../images/5.png" mode='widthFix'></image>
+     </navigator>
+  </view>
+  <view class="show-box">
+     <navigator url="../show6/show6">
+        <image src="../../images/6.png" mode='widthFix'></image>
+     </navigator>
+  </view>
+  <view class="show-box">
+      <navigator url="../show7/show7">
+       <image src="../../images/7.png" mode='widthFix'></image>
+     </navigator>
+  </view>
+  <view class="show-box">
+     <navigator url="../show8/show8">
+        <image src="../../images/8.png" mode='widthFix'></image>
+     </navigator>
+  </view>
+  <view class="show-box">
+      <navigator url="../show9/show9">
+       <image src="../../images/9.png" mode='widthFix'></image>
+     </navigator>
+  </view>
+  <view class="show-box">
+     <navigator url="../show10/show10">
+        <image src="../../images/10.png" mode='widthFix'></image>
+     </navigator>
+  </view>
+</view>

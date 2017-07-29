@@ -1,0 +1,16 @@
+<!--pages/index3/index3.wxml-->
+<view class="content">
+  <image src="../../images/img_ability_banner.png" mode='widthFix'></image>
+  <view class="contents">独有的风格，做最适合客户的强大后盾和技术团队。</view>
+  <view class="contents">我们拥有国际化视野与国际化标准，标准化作业体系，为客户提供独享的顾问式贴身服务。</view>
+  <view class="contents">加强品牌互动，深度连接消费者，结合多元化的互联网工作经验经验，针对网站的体验性与适用性进行优化。</view>
+  <view class="contents">我们拥有首屈一指的专业技术团队， HTML5，CSS3等最新技术的运用，创造全新的高品质浏览感受。</view>
+  <view class="title">App定制开发整体解决方案（IOS/Android）</view>
+  <view class="contents">专注于移动互联网整体解决方案的产品与技术供应商，为企业用户提供基于移动互联网的的整体技术解决方案，包括整体方案的顶层设计，移动终端的App定制开发，以及运营指导。</view>
+  <view class="title">手机移动端（微官网，微商城, 微信公众平台等）技术开发</view>
+  <view class="contents">全链技术开发，以“创新”贯穿策略和开发。上行全链技术开发的意义在于确保好创意概念能够实现。 其不仅表现在功能上的优越性，而且方便，开发周期短、质量更高，从而增强竞争力。</view>
+  <view class="title">移动互联网顶层设计方案咨询</view>
+  <view class="contents">上行互联网顶层设计方案，助力开发者轻松应对互联网中随时可能出现的用户数量的爆发式增长、复杂的移动安全挑战等问题。 助力开发者实现基于大数据技术的精细化运营、提升产品质量和体验、增强用户黏性。</view>
+  <view class="title">创业项目技术孵化服务</view>
+  <view class="contents">上行孵化服务不仅仅是一种理念和方法，也是一个网络化协同创新设计的平台。在这里，汇聚起各领域专家和工程技术人员，涵盖信息科学技术、计算机软硬件、交互系统、机器人和互联网等创新技术，能够让你比竞争对手更快、更好、更有效的突破技术瓶颈、获得产品创新机会，同时帮助你准确高效的发现商业机会，更好的实现技术商业化。</view>
+</view>

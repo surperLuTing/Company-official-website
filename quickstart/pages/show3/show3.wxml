@@ -1,0 +1,21 @@
+<!--pages/show3/show3.wxml-->
+<view class="container">
+  <image src="../../images/yt.png" mode='widthFix' class="banners"></image>
+  <view class="content">
+    <view class="contents">
+    一号园丁是针对园艺行业提供的一款 B2C 电商平台。公司自身提供植物花草，或者通过代理商提供植物商品，代理商可发货，也可通过总公司 发货。主要提供的服务有：植物花草的配送，免费设计，上门安装，后期养护。
+</view>
+  </view>
+  <view class="img-box">
+    <image src="../../images/y1.png" mode='widthFix'></image>
+  
+    <image src="../../images/y2.png" mode='widthFix'></image>
+  </view>
+   <view class="img-box">
+    <image src="../../images/y3.png" mode='widthFix'></image>
+  
+    <image src="../../images/y4.png" mode='widthFix'></image>
+  </view>
+  
+</view>
+

@@ -1,0 +1,5 @@
+/* pages/show1/show1.wxss */
+.content image{
+  width:100%;
+  margin-bottom:20rpx;
+}
