@@ -1,5 +1,0 @@
-/* pages/index5s/index5s.wxss */
-.content image{
-  width:100%;
-  margin-bottom:30rpx;
-}
