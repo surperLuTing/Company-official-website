@@ -1,0 +1,43 @@
+<!--pages/index5/index5.wxml-->
+<view class="swiper-tab">  
+    <view class="swiper-tab-list {{currentTab==0 ? 'on' : ''}}" data-current="0" bindtap="swichNav">公司介绍</view>  
+    <view class="swiper-tab-list {{currentTab==1 ? 'on' : ''}}" data-current="1" bindtap="swichNav">团队介绍</view>  
+    <view class="swiper-tab-list {{currentTab==2 ? 'on' : ''}}" data-current="2" bindtap="swichNav">关于我们</view>  
+</view>  
+  
+<swiper current="{{currentTab}}" class="swiper-box" duration="300" style="height:{{winHeight+50}}px" bindchange="bindChange">  
+    <swiper-item>  
+      <view class="content">
+  <image src="../../images/img_companyIntroduction_picture.png" mode='widthFix'></image>
+  <view class="contents">我公司主要经营服务：计算机软硬件、电子产品、网络信息技术的技术开发、技术服务、技术咨询，计算机系统集成，网页设计；批发、零售：计算机软硬件，办公设备，电子产品（除专控）。我们始终坚持用户至上，用心服务于客户，坚持用自己的服务去打动客户，公司秉承“保证一流质量，保持一级信誉”的经营理念，坚持“客户第一”的原则为广大客户提供优质的服务。</view>
+</view>  
+    </swiper-item>  
+    <swiper-item>  
+        <view class="content">
+  <image src="../../images/img_teamIntroduction_picture.png" mode='widthFix'></image>
+  <view class="contents">公司拥有一支富有朝气的团队，我们的团队成员来自五湖四海，为了一个共同的梦想走到了一起。我们虽然拥有不同的性格、教育背景和工作经历，但都有一个共同的特点：热爱互联网。</view>
+  <view class="contents">我们激情四射，但底蕴丰厚；我们活力无限，也同样耐得住寂寞；我们满怀理想，脚踏实地去实现；我们创想无限，我们拒绝平庸！</view>
+  <view class="contents">在这里，我们优势互补，不用担心自己想法的实施局限于自己的能力范围；在这里，我们的每个想法都会得到团队中肯的意见，最终趋于完美；在这里，我们在一起，没有曲高和寡，只有知己相伴；在这里，我们的工作受到应得的肯定，付出一定有回报！</view>
+</view>
+    </swiper-item>  
+    <swiper-item>  
+     <view class="container">
+   <image src="../../images/LOGO.png" mode='widthFix' class="logo"></image>
+   <view class="title">
+   杭州上行科技有限公司</view>
+   <view class="address">
+    <image src="../../images/Icon_address.png" mode='widthFix' ></image>
+   杭州市西湖区留和路百家园路交叉口创立方C座</view>
+   <view class="phone">
+    <image src="../../images/Icon_iPhone.png" mode='widthFix' ></image>400-88659360
+    </view>
+   <view class="map">
+    <map id="map" longitude="120.0673800000" latitude="30.2457600000" scale="16"  markers="{{markers}}" show-location style="width: 100%; height: 300px;"></map>
+   </view>
+  
+</view>
+    </swiper-item>  
+</swiper>
+
+
+

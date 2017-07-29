@@ -1,0 +1,8 @@
+<!--pages/show1/show1.wxml-->
+<view class="content">
+  <image src="../../images/img_Rokid_picture1.png" mode='widthFix'></image>
+  <image src="../../images/img_Rokid_picture2.png" mode='widthFix'></image>
+  <view class="contents">
+   Rokid现在可以支持的场景包含天气、智能家居、音乐、广播、简单聊天等，正在深入细化现在的场景，并与更多的第三方 app 服务做匹配。长远来看，Rokid 的语音部分，在增加场景的同时，将拓展简单的深度学习功能，并添加聊天数据库进而提供能相对广泛的聊天功能
+  </view>
+</view>

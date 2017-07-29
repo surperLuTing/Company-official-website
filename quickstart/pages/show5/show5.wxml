@@ -1,0 +1,46 @@
+<!--pages/show5/show5.wxml-->
+<view class="container">
+  <image src="../../images/nt.png" mode='widthFix' class="banners"></image>
+  <view class="content">
+    <view class="contents">
+    牛人码头是一款人次招聘的boss直聘的求职招聘平台，主要有两个模块：推荐人才：推荐人才共享收益；招聘人才：寻找合适的人才，简历评价库。
+    </view>
+  </view>
+  <view class="img-box">
+    <image src="../../images/n1.png" mode='widthFix'></image>
+  
+    <image src="../../images/n2.png" mode='widthFix'></image>
+  </view>
+  <view class="content">
+    <view class="contents">
+    牛人码头是让企业给求职者“投简历”的逆向求职平台。
+</view>
+<view class="contents">
+求职更简单，求职者用标签定义自己的求职需求，而简历完全被图片代替。
+</view>
+<view class="contents">
+30秒完成求职需求定义和发布，静等招聘方勾搭。
+</view>
+<view class="contents">
+而招聘工作更是容易，用标签定义自己的招聘要求，用图片展示招聘方的要求和企业环境，招聘需求的发布不超过1分钟。
+</view>
+  </view>
+   <view class="img-box">
+    <image src="../../images/n3.png" mode='widthFix'></image>
+  
+    <image src="../../images/n4.png" mode='widthFix'></image>
+  </view>
+  <view class="content">
+    <view class="contents">
+    除此之外，招聘方可以通过评论、私聊的方式与求职者迅速对接，让招聘更高效，让招聘更直接，让招聘更有效率。
+    </view>
+    <view class="contents">
+    招聘方可以向求职者索取联系方式，求职者同意后向招聘方开放，保护求职者隐私。
+    </view>
+    
+  </view> 
+  <view class="img-boxs">
+        <image src="../../images/n5.png" mode='widthFix'></image>
+    </view>
+</view>
+

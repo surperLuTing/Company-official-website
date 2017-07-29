@@ -1,0 +1,8 @@
+<!--pages/index4/index4.wxml-->
+<view class="content">
+  <image src="../../images/img_teamIntroduction_picture.png" mode='widthFix'></image>
+  <view class="contents">公司拥有一支富有朝气的团队，我们的团队成员来自五湖四海，为了一个共同的梦想走到了一起。我们虽然拥有不同的性格、教育背景和工作经历，但都有一个共同的特点：热爱互联网。</view>
+  <view class="contents">我们激情四射，但底蕴丰厚；我们活力无限，也同样耐得住寂寞；我们满怀理想，脚踏实地去实现；我们创想无限，我们拒绝平庸！</view>
+  <view class="contents">在这里，我们优势互补，不用担心自己想法的实施局限于自己的能力范围；在这里，我们的每个想法都会得到团队中肯的意见，最终趋于完美；在这里，我们在一起，没有曲高和寡，只有知己相伴；在这里，我们的工作受到应得的肯定，付出一定有回报！</view>
+
+</view>

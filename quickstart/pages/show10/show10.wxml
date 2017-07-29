@@ -1,0 +1,23 @@
+<!--pages/show10/show10.wxml-->
+<view class="container">
+  <image src="../../images/ht.png" mode='widthFix' class="banners"></image>
+  <view class="content">
+    <view class="contents">
+    约会盒子是一款专为情侣夫妻准备的软件，情人节马上就要来了，感觉为你的另一半准备一场惊喜吧。
+    </view>
+    <view class="contents">
+     以约会为主题，推荐适合约会的餐厅，每一个地点都是用心准备，良心推荐。让吃货情侣、闺蜜、夫妻们感到暖暖的爱意是我们做这款app的初衷和为之奋斗的动力~
+    </view>
+  </view>
+  <view class="img-box">
+    <image src="../../images/h1.png" mode='widthFix'></image>
+  
+    <image src="../../images/h2.png" mode='widthFix'></image>
+  </view>
+  <view class="img-box">
+    <image src="../../images/h3.png" mode='widthFix'></image>
+    <image src="../../images/h4.png" mode='widthFix'></image>
+  </view>
+  
+</view>
+

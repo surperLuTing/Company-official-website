@@ -1,0 +1,9 @@
+<!--pages/show4/show4.wxml-->
+<view class="content">
+  <image src="../../images/s41.png" mode='widthFix'></image>
+  <image src="../../images/s42.png" mode='widthFix'></image>
+  <view class="contents">
+  从此远离人肉试温，不让水杯与你互相伤害。与您随行，可以为您焖一颗完美的鸡蛋让您的早餐更有营养。您也可以带一杯好茶，快节奏里品味慢生活。做一杯Detox Water，是时尚，更是健康。随时随地，更多可能。
+  </view>
+</view>
+

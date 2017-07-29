@@ -1,0 +1,7 @@
+<!--pages/index5s/index5s.wxml-->
+<view class="content">
+  <image src="../../images/img_companyIntroduction_picture.png" mode='widthFix'></image>
+  <view class="contents">我公司主要经营服务：计算机软硬件、电子产品、网络信息技术的技术开发、技术服务、技术咨询，计算机系统集成，网页设计；批发、零售：计算机软硬件，办公设备，电子产品（除专控）。我们始终坚持用户至上，用心服务于客户，坚持用自己的服务去打动客户，公司秉承“保证一流质量，保持一级信誉”的经营理念，坚持“客户第一”的原则为广大客户提供优质的服务。</view>
+  
+
+</view>

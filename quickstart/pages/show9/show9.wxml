@@ -1,0 +1,24 @@
+<!--pages/show9/show9.wxml-->
+<view class="container">
+  <image src="../../images/mt.png" mode='widthFix' class="banners"></image>
+  <view class="content">
+    <view class="contents">
+    口碑精选，省心推荐，新一代父母的首选母婴购物APP
+    </view>
+    <view class="contents">
+     妈妈口碑每日提供最用心最安心最贴心最省心最放心的测评服务，分享最新鲜的用品体验，纵向横向360°辐射母婴用品。我们不生产用品，我们只是好用品的搬运工。
+    </view>
+  </view>
+  <view class="img-box">
+    <image src="../../images/m1.png" mode='widthFix'></image>
+  
+    <image src="../../images/m2.png" mode='widthFix'></image>
+  </view>
+  <view class="img-box">
+    <image src="../../images/m3.png" mode='widthFix'></image>
+    <image src="../../images/m4.png" mode='widthFix'></image>
+  </view>
+   <view class="img-box">
+    <image src="../../images/m5.png" mode='widthFix'></image>
+  </view>
+</view>

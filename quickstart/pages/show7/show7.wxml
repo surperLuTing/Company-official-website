@@ -1,0 +1,26 @@
+<!--pages/show7/show7.wxml-->
+
+<view class="container">
+  <image src="../../images/title_ TX.png" mode='widthFix' class="banners"></image>
+  <view class="content">
+    <view class="contents">
+    谭信是以陌生人社交为切入点，利用Im即时聊天为手段实现陌生人社交（S2S）。通过时间交易真正做到陌生人社交无需盲目等待为基础的移动社交应用。谭信将以亿级受众为服务愿景！专业打造线下实地交友场景（约吧）为媒介的社交平台。
+    </view>
+  </view>
+  <view class="img-box">
+    <image src="../../images/t1.png" mode='widthFix'></image>
+  
+    <image src="../../images/t2.png" mode='widthFix'></image>
+  </view>
+  <view class="content">
+    <view class="contents">
+   谭信是一款基于即时性及个人资料真实性的陌生人社交约会应用。它首创了合体雷达的概念，即通过高度的一致性将在同一时间有交友、倾诉需求的陌生人通过复杂的逻辑计算匹配到一起，既能在冲动交友欲求消退时间内找到相同兴趣爱好的新朋友，又能通过对方相对真实的资料，对对方有一个较为全面的了解，避免了陌生人交友遇到最多的信任问题。
+    </view>
+  </view>
+  <view class="img-box">
+    <image src="../../images/t3.png" mode='widthFix'></image>
+    <image src="../../images/t4.png" mode='widthFix'></image>
+  </view>
+</view>
+
+

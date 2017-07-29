@@ -1,0 +1,16 @@
+<!--pages/index6/index6.wxml-->
+<view class="container">
+   <image src="../../images/LOGO.png" mode='widthFix' class="logo"></image>
+   <view class="title">
+   杭州上行科技有限公司</view>
+   <view class="address">
+    <image src="../../images/Icon_address.png" mode='widthFix' ></image>
+   杭州市西湖区留和路百家园路交叉口创立方C座</view>
+   <view class="phone">
+    <image src="../../images/Icon_iPhone.png" mode='widthFix' ></image>400-88659360
+    </view>
+   <view class="map">
+    <map id="map" longitude="120.0673800000" latitude="30.2457600000" scale="16"  markers="{{markers}}" show-location style="width: 100%; height: 300px;"></map>
+   </view>
+  
+</view>

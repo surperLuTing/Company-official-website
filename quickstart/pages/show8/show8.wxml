@@ -1,0 +1,26 @@
+<!--pages/show8/show8.wxml-->
+<view class="container">
+  <image src="../../images/BT.png" mode='widthFix' class="banners"></image>
+  <view class="content">
+    <view class="contents">
+    衣手包办有针对于中国服装行业中小卖家进货难、进货过程花费的时间成本、人力成本大、档口与卖家信息沟通效率不高等问题的一整套解决方案；平台致力于构建档口和卖家信息沟通的高效，配备现代化的物流技术、多种线上支付方式。
+    </view>
+  </view>
+  <view class="img-box">
+    <image src="../../images/b1.png" mode='widthFix'></image>
+  
+    <image src="../../images/b2.png" mode='widthFix'></image>
+  </view>
+  <view class="content">
+    <view class="contents">
+    解决档口流量在某段时间高度集中、解决淘宝卖家等去档口拿货费时费力、排队、大包不易运输等问题；提高档口的综合效率，降低卖家成本的同时提高时间效率，努力实现服装行业的产业升级。
+    </view>
+  </view>
+  <view class="img-box">
+    <image src="../../images/b3.png" mode='widthFix'></image>
+    <image src="../../images/b4.png" mode='widthFix'></image>
+  </view>
+   <view class="img-boxs">
+    <image src="../../images/b5.png" mode='widthFix'></image>
+  </view>
+</view>

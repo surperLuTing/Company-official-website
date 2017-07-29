@@ -1,0 +1,23 @@
+<!--pages/show2/show2.wxml-->
+<view class="container">
+  <image src="../../images/title_GreenRecovery.png" mode='widthFix' class="banners"></image>
+  <view class="content">
+    <view class="contents">
+   大象回收是一款手机性能检测工具。大象回收旨在让大家可轻松、快捷的了解手机性能如何。该APP是一款不需要注册的检测手机性能的工具类 APP，用户安装 APP 后，可直接检测手机性能，查看检测报告，将检测报告生成二维码，分享出去。 </view>
+  </view>
+  <view class="img-box">
+    <image src="../../images/d1.jpg" mode='widthFix'></image>
+  
+    <image src="../../images/d2.jpg" mode='widthFix'></image>
+  </view>
+   <view class="img-box">
+    <image src="../../images/d3.jpg" mode='widthFix'></image>
+  
+    <image src="../../images/d4.jpg" mode='widthFix'></image>
+  </view>
+   <view class="img-box">
+    <image src="../../images/d5.jpg" mode='widthFix'></image>
+    <image src="../../images/d6.jpg" mode='widthFix'></image>
+  </view>
+  
+</view>

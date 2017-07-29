@@ -1,0 +1,60 @@
+<!--index.wxml-->
+<view class="container">
+   <view class="banner">
+      <image src="../../images/img_home_banner.png" mode='widthFix'></image>
+   </view>
+   <view class="title">
+       服务案例
+   </view>
+   <view class="service">
+     <view class="left">
+        <navigator url="../show1/show1"> 
+           <image src="../../images/s1.png" mode='widthFix'></image>
+        </navigator> 
+     </view>
+   
+     <view class="right">
+       <navigator url="../show2/show2"> 
+        <image src="../../images/s2.png" mode='widthFix'></image>
+       </navigator>
+       <navigator url="../show3/show3"> 
+        <image src="../../images/s3.png" mode='widthFix' class='bottom'></image>
+       </navigator>
+     </view>
+   </view>
+   <view class="banner">
+      <image src="../../images/img_product_summary.png" mode='widthFix'></image>
+   </view>
+   
+   <view class="title">
+       创新能力
+   </view>
+   <view class="banner">
+      <navigator url="../index3s/index3s"> 
+         <image src="../../images/img_ability_bg.png" mode='widthFix'></image>
+      </navigator>  
+   </view>
+   <view class="title">
+       关于我们
+   </view>
+   <view class="our">
+      <view class="our-list">
+       <navigator url="../index5s/index5s"> 
+        <image src="../../images/Icon_companyIntroduction.png" mode='widthFix'></image>
+        <text>公司介绍</text>
+        </navigator> 
+      </view>
+      <view class="our-list">
+       <navigator url="../index4/index4"> 
+        <image src="../../images/Icon_teamIntroduction.png" mode='widthFix'></image>
+        <text>团队介绍</text>
+        </navigator> 
+      </view>
+       <view class="our-list">
+        <navigator url="../index6/index6"> 
+          <image src="../../images/Icon_Contact.png" mode='widthFix'></image>
+          <text>关于我们</text>
+          </navigator> 
+       </view>
+   </view>
+</view>

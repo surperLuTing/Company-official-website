@@ -1,0 +1,46 @@
+<!--pages/show6/show6.wxml-->
+<view class="container">
+  <image src="../../images/rt.png" mode='widthFix' class="banners"></image>
+  <view class="content">
+    <view class="contents">
+    “让我来”项目是针对洗衣服务行业的一个基于微信公众号、H5的商城，其他还包括Android 客户端，iOS 客户端，工厂端，运营后台。主要业务是：来一桶，来几件，定制服务，奢侈品护理，以及上门清洁等，此项目有自己的官方物流，通过优质的服务以及物流服务，为全国各地的家庭带来便利！其中工厂端企业工作人员用于管理订单的 APP，便于上门服务以及客户管理！ 注册用户近百万。
+    </view>
+  </view>
+  <view class="img-box">
+    <image src="../../images/r1.jpeg" mode='widthFix'></image>
+    <image src="../../images/r2.jpeg" mode='widthFix'></image>
+  </view>
+  <view class="content">
+  <view class="contents">
+    让我来方便快捷的本地化移动电商购物平台，还原本来生活。 让我来新鲜果品原产地直采，保证品质。镖客分享体系融入全新的O2O模式解决社区周边各种生活需求，让我来提供赚取额外收益的镖客分享师体验，让您在体验优质的易果生鲜的同时还能参与体验服务。
+    </view>
+    </view>
+  <view class="img-box">
+    <image src="../../images/r3.jpeg" mode='widthFix'></image>
+    <image src="../../images/r4.jpeg" mode='widthFix'></image>
+  </view>
+  <view class="content">
+   <view class="contents">
+        优质—平台严格质控，挑选营养、安全、果味浓郁的全球佳果。
+    </view>
+    <view class="contents">
+        健康—通过镖客体验师，传播健康生活理。
+    </view>
+    <view class="contents">
+      便利—线下体验、订购、支付方式多样化，简单便利。
+    </view>
+    <view class="contents">
+      快购—闪电宅送，镖客配送体系指定送达，售后服务快速响应。
+    </view>
+    <view class="contents">
+      放心—客服响应快速，周到的周边售前售后服务，营造省心放心的购物体验。
+    </view>
+    <view class="contents">
+      镖客—果品配送体验，参与公司体系管理，开工后接单赚取跑腿费。
+    </view>
+    </view>
+  <view class="img-boxs">
+    <image src="../../images/r5.jpeg" mode='widthFix'></image>
+  </view>
+</view>
+

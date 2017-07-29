@@ -1,0 +1,63 @@
+.content image{
+  width:100%;
+  margin-bottom:30rpx;
+}
+.logo{
+  width:144rpx;
+  margin: 80rpx auto 40rpx;
+}
+.title{
+  width:100%;
+  text-align: center;
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom:80rpx;
+}
+.address,.phone{
+  font-size: 14px;
+  margin-bottom:28rpx;
+  padding:0 30rpx;
+}
+.map{
+  width:100%;
+  padding:0 30rpx;
+  box-sizing: border-box;
+}
+.swiper-tab{  
+    width: 100%;  
+    border-bottom: 2rpx solid #000;  
+    line-height: 80rpx;
+    position:fixed;
+    top:0;
+    left:0;   
+    z-index: 999999; 
+    background: #fff;
+    }  
+.swiper-tab-list{ 
+    font-size: 30rpx;  
+    display: inline-block;  
+    width: 33.33%;  
+    color: #000;  
+    font-family: '微软雅黑';
+    text-align: center;
+    
+}  
+.on{ color: #000;  
+    border-bottom: 5rpx solid #000;
+    font-weight: 600;
+    }  
+  
+.swiper-box{ 
+  display: block; height: auto; width: 100%; overflow: hidden;
+  margin-top:50px; 
+  }  
+.phone image{
+  width:50rpx;
+  float: left;
+  margin-right:20rpx;
+}
+.address image{
+  width:50rpx;
+  float: left;
+  margin-right:20rpx;
+}
